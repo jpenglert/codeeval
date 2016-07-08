@@ -13,3 +13,11 @@ hs_err_pid*
 
 # IntelliJ
 .idea/
+
+# Visual Studio
+Debug/
+Release/
+.vs/
+*.tlog
+*.VC.db
+*.VC.opendb
