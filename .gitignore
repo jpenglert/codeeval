@@ -21,3 +21,6 @@ Release/
 *.tlog
 *.VC.db
 *.VC.opendb
+*.opensdf
+*.sdf
+*.suo
