@@ -24,3 +24,6 @@ Release/
 *.opensdf
 *.sdf
 *.suo
+
+# Gradle
+.gradle/
